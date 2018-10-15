@@ -38,3 +38,7 @@ int main() {
 
 	return 0;
 }
+
+//In this problem the reading the input is pretty straightfoward.
+//One has only to pay attention to the signal of the coordentes to know in which quadrant it is located.
+//The only trick is to know if the point is located in a division.
